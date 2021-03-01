@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="cisc4800-project2-db-mysql">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="java-output-path" value="/cisc4800-project2-db-mysql/build/classes"/>
+        <property name="context-root" value="cisc4800-project2-db-mysql"/>
+            
+    </wb-module>
+    
+</project-modules>
